@@ -1,0 +1,11 @@
+https://www.codepolitan.com/memulai-pembuatan-aplikasi-web-dengan-yii2-autentikasi-ke-database-mysql
+https://devreadwrite.com/posts/yii2-basic-authorization-and-registration-via-the-database
+
+https://mumunotesss.blogspot.com/2015/06/membuat-login-yii2-dengan-database.html
+https://stackoverflow.com/questions/32520920/how-to-use-migrate-command-in-yii2-basic-template
+=====
+
+http://localhost/donat/web/index.php?r=site/add-admin
+http://localhost/donat/web/index.php?r=hello/private-page
+http://localhost/donat/web/index.php?r=hello/secret-page
+http://localhost/donat/web/index.php?r=hello/public-page
